@@ -58,3 +58,5 @@ alert(`${sideMenuComments[secondSideChoice]}\nThe ${secondSideChoice} will be $$
 const mealTotal = (entreeMenu[entreeChoice] + sideMenu[firstSideChoice] + sideMenu[secondSideChoice]);
 
 alert(`Okay for the ${entreeChoice}, ${firstSideChoice}, and ${secondSideChoice}, your total comes out to $${mealTotal}.`)
+
+console.log("DONT JUDGE THE MENU ITS NOT DONE YET.... Created by: Tony Herrera. GitHub: https://github.com/TonyBHerrera")
